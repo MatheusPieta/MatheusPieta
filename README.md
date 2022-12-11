@@ -15,7 +15,7 @@
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Math-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/IaWMz9Ln8OWvf66z6k/giphy.gif">
+  <img align="right" alt="Math-pic" height="120" width="120" style="border-radius:50px;" src="https://media.giphy.com/media/IaWMz9Ln8OWvf66z6k/giphy.gif">
 </div>
 
 ##
