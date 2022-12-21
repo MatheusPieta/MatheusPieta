@@ -1,8 +1,7 @@
 ### Olá eu sou o Matheus Pieta
 
-- 🔭 Atualmente Trabalho como Analista de Sustentação
-- 🌱 Estou estudando Java e JavaScript
-- 😄 Pronomes: Ele/Dele
+- 🔭 Atualmente Trabalho como Analista de Suporte
+- 🌱 Estou estudando Programação em Front-End
 
 <div align="center">
   <a href="https://github.com/MatheusPieta">
