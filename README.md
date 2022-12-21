@@ -1,4 +1,4 @@
-### Olá eu sou o Matheus Pieta
+### I'm Matheus Pieta
 
 - 🔭 I currently work as a Support Analyst;
 - 🌱 I'm studying Front-End Programming.
