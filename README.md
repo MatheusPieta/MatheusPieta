@@ -1,7 +1,7 @@
 ### Olá eu sou o Matheus Pieta
 
-- 🔭 Atualmente Trabalho como Analista de Suporte
-- 🌱 Estou estudando Programação em Front-End
+- 🔭 I currently work as a Support Analyst;
+- 🌱 I'm studying Front-End Programming.
 
 <div align="center">
   <a href="https://github.com/MatheusPieta">
@@ -12,8 +12,9 @@
   <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Math-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="right" alt="Math-pic" height="120" width="120" style="border-radius:50px;" src="https://media.giphy.com/media/IaWMz9Ln8OWvf66z6k/giphy.gif">
 </div>
 
