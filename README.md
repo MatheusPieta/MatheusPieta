@@ -1,5 +1,6 @@
-### I'm Matheus Pieta
+### Hi, I'm Matheus Pieta
 
+- 🤙🏻 21 years old
 - 🔭 I currently work as a Support Analyst;
 - 🌱 I'm studying Front-End Programming.
 
