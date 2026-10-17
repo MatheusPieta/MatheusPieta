@@ -1,8 +1,7 @@
 ### Hi, I'm Matheus Pieta
 
-- 🤙🏻 23 years old
-- 🔭 I currently work as a Support Analyst;
-- 🌱 I'm studying Front-End Programming.
+- 🤙🏻 25 years old;
+- 🔭 I currently work as a Head CS;
 
 <div align="center">
   <a href="https://github.com/MatheusPieta">
